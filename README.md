@@ -30,6 +30,10 @@ Esse repositório contém:
 
 # 📚 Artigos
 
+### 2021
+<b><i>Medium</i>: Reflexão sobre o papel do QA no ciclo de desenvolvimento de software </b>
+- [Ler] (https://medium.com/@danielayabe/reflex%C3%A3o-sobre-o-papel-do-qa-no-ciclo-de-desenvolvimento-de-software-bcb692f008f6)
+
 ### 2018
 
 <b><i>ARES</i>: Influence Factors on the Quality of User Experience in OS Reliability: A Qualitative Experimental Study </b>
