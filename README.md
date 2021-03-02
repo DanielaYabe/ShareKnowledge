@@ -32,7 +32,7 @@ Esse repositório contém:
 
 ### 2021
 <b><i>Medium</i>: Reflexão sobre o papel do QA no ciclo de desenvolvimento de software </b>
-- [Ler] (https://medium.com/@danielayabe/reflex%C3%A3o-sobre-o-papel-do-qa-no-ciclo-de-desenvolvimento-de-software-bcb692f008f6)
+- [Ler](https://medium.com/@danielayabe/reflex%C3%A3o-sobre-o-papel-do-qa-no-ciclo-de-desenvolvimento-de-software-bcb692f008f6)
 
 ### 2018
 
